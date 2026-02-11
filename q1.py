@@ -16,3 +16,5 @@ print(my_list)
 # c) Find and print the index of "cat"
 i = my_list.index("cat")
 print(i)
+
+#Completed
